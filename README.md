@@ -1,4 +1,4 @@
-# US-Accidents-Data-Analysis
+# US Accidents Analysis
 
 This project conducts an exploratory data analysis on the US Accidents dataset from Kaggle. The dataset contains accident records in the US from February 2016 to March 2023.
 
